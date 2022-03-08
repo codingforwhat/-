@@ -121,7 +121,7 @@ seamcarving算法不是常规的图像缩放算法
 
 （两图缩放比例为83%）可以看到，由于缩小时丢失了图像75%的信息，对于太过复杂的的细节，比如碎石，石墙纹理，海浪纹路细节等有所丢失。但海浪形状，石块表面的明显纹路不但位置正确，也有很好的边缘和颜色保留。
 
-<img src="天空1.png" alt="天空1" style="zoom:45%;" /><img src="天空1.png" alt="天空2" style="zoom:45%;" />
+<img src="天空1.png" alt="天空1" style="zoom:45%;" /><img src="天空2.png" alt="天空2" style="zoom:45%;" />
 
 <img src="天空3.png" alt="天空1" style="zoom:45%;" /><img src="天空4.png" alt="天空1" style="zoom:45%;" />
 
